@@ -1,4 +1,4 @@
-# .py-to-.exe
+# Python to Exe
 **Python to .exe (Executable) instructions**
 
 **Install requirements**
